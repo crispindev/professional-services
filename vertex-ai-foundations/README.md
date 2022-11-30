@@ -169,13 +169,24 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!--
-***<!-- LICENSE --> 
-*** ## License 
+## License
 
-*** Distributed under the MIT License. See `LICENSE.txt` for more information.
+All solutions within this repository are provided under the
+[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license. Please see
+the [LICENSE](/LICENSE) file for more detailed terms and conditions.
 
--->
+## Disclaimer
+
+This repository and its contents are not an official Google Product.
+
+## Contact
+
+Questions, issues, and comments should be directed to
+[professional-services-oss@google.com](mailto:professional-services-oss@google.com).
+
+[gcf]: https://cloud.google.com/functions/
+[gcf-bg]: https://cloud.google.com/functions/docs/writing/background
+[logs-export]: https://cloud.google.com/logging/docs/export/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
