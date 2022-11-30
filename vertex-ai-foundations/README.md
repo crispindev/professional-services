@@ -78,16 +78,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great foundation templates available on GitHub; however, we wanted to provide Google's opinionated version that met our customers needs so we built this one. We want to make Vertex AI easy and simple to use in our effort to democratize ML/AI. ever need -- I think this is it.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Your time should be focused on creating something amazing with ML/AI. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating projects, service accounts, google cloud services manually.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
+We are sure this will not serve all of your needs and projects since each customer is different but this can be the baseline for your experimentation with Vertex AI. We'll be adding more features and content in the future but welcome the community of ML/AI practicioners to contribute and by forking this repo and creating a pull request for any features or issues for any bugs.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
